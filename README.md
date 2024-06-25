@@ -1,8 +1,8 @@
 # Dockerização do Banco de Dados
 
 
-![Construção da Imagem Docker](script/img1.png)
-![Verificação do Banco de Dados](script/img2.png)
+![Construção da Imagem Docker](scripts/img1.png)
+![Verificação do Banco de Dados](scripts/img2.png)
 
 ## Passos
 
